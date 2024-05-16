@@ -1,2 +1,6 @@
 # haruTIL
-haruTIL (1day today I Learn)
+
+- write only using Markdown
+
+## LLM (Large Language Model)
+
