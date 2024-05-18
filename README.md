@@ -6,4 +6,4 @@
 - [문서청킹](./LLM/청킹.md)
 
 ## Machine Learning
-- [scikit-learn](./MachineLearning/scikit-learn.md)
+- [scikit-learn](./MachineLearning/scikit-learn.md) + KNN
