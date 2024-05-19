@@ -1,6 +1,7 @@
 ## PCA (주성분 분석)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6a6865c-4ba6-4522-a8a6-927f097bb32e/ade6a13a-27b5-477f-84d1-18bdbdfd48f1/Untitled.png)
+![image](https://github.com/seoharuss/haruTIL/assets/127467806/5edcf342-4623-4cd2-bc6a-70c40bffb1a9)
+
 
 차원 축소를 통해 최소 차원의 정보로 원래 차원의 정보 모사(approximate)하는 알고리즘
 
